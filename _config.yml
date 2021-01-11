@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Rasine Ukene
+title: Rasine
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hi, my name is Rasine Ukene. I’m an artist and a designer based in Abuja. I am passionate about drawing, design and computational art with GANs.
+description: Hi, my name is Rasine. I’m an artist and a designer based in Abuja. I am passionate about drawing, design and computational art with GANs.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://rasine.art" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -11,7 +11,7 @@ url: "https://rasine.art" # The base hostname & protocol for your site, e.g. htt
 # Author Settings
 author:
   avatar: '/images/rasine.jpg'
-  name: Rasine Ukene
+  name: Rasine
   job: Artist & Designer
 
 social:
