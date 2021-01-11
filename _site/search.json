@@ -1,0 +1,57 @@
+[
+  
+    {
+      "title"    : "An African Lady",
+      "category" : "",
+      "tags"     : "Portrait",
+      "url"      : "/an-african-lady",
+      "date"     : "Jun 9, 2020",
+      "image": "/images/lr/thedayeabasi.jpg"
+    } ,
+  
+    {
+      "title"    : "For the Love of Art and Dark Skin",
+      "category" : "",
+      "tags"     : "Portrait",
+      "url"      : "/art-dark-skin",
+      "date"     : "Apr 9, 2020",
+      "image": "/images/lr/darkskin.jpg"
+    } ,
+  
+    {
+      "title"    : "Curiosity and Determination",
+      "category" : "",
+      "tags"     : "Portrait",
+      "url"      : "/curiosity-and-determination",
+      "date"     : "Jul 29, 2019",
+      "image": "/images/lr/speed-drawing.jpg"
+    } ,
+  
+    {
+      "title"    : "Strength and Dignity are her Clothing",
+      "category" : "",
+      "tags"     : "Portrait",
+      "url"      : "/strength-and-dignity",
+      "date"     : "Jul 29, 2019",
+      "image": "/images/lr/quarantine_drawing.jpg"
+    } ,
+  
+    {
+      "title"    : "Because of my African pride",
+      "category" : "",
+      "tags"     : "Portrait",
+      "url"      : "/african-pride",
+      "date"     : "Jul 29, 2019",
+      "image": "/images/lr/african-pride.jpg"
+    } ,
+  
+    {
+      "title"    : "Courage and Fortitude",
+      "category" : "",
+      "tags"     : "Portrait",
+      "url"      : "/courage-and-fortitude",
+      "date"     : "Jul 29, 2019",
+      "image": "/images/lr/african-man-portrait.jpg"
+    } 
+  
+]
